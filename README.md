@@ -55,5 +55,5 @@ Backend      →  Flask · Supabase · Railway · REST APIs
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrufaStack&show_icons=true&theme=dark&hide_border=true&bg_color=0D1B2A&title_color=5DCAA5&icon_color=5DCAA5&text_color=FFFFFF" />
+  <img src="https://streak-stats.demolab.com?user=TrufaStack&theme=dark&hide_border=true&background=0D1B2A&ring=5DCAA5&fire=5DCAA5&currStreakLabel=5DCAA5" />
 </p>
