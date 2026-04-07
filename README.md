@@ -47,9 +47,9 @@ Backend      →  Flask · Supabase · Railway · REST APIs
 
 ## Currently
 
-<img src="./assets/icons/gps.png" width="20" height="20"/> Santiago, Chile  
-<img src="./assets/icons/plane.png" width="20" height="20"/> Relocating to Australia in 2026 — open to Financial Analyst, Data Analyst and Business Analyst roles on a Work & Holiday visa.
-<img src="./assets/icons/gmail.png" width="20" height="20"/> pe.gallardo97@gmail.com  
+<img src="./assets/icons/gps.png" width="20" height="20"/> Santiago, Chile.<br><br>
+<img src="./assets/icons/plane.png" width="20" height="20"/> Relocating to Australia in 2026 — open to Financial Analyst, Data Analyst and Business Analyst roles on a Work & Holiday visa.<br><br>
+<img src="./assets/icons/gmail.png" width="20" height="20"/> pe.gallardo97@gmail.com<br><br>
 <img src="./assets/icons/linkedin.png" width="20" height="20"/> [linkedin.com/in/patriciogallardo1](https://linkedin.com/in/patriciogallardo1)
 
 ---
